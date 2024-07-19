@@ -1,0 +1,8 @@
+#footer{overflow: hidden;padding:0 0 24px;}
+#footer h3{font-size:16px;line-height:22px;font-weight:700;color:#000000;margin:0 0 16px;}
+#footer .ai-queries{border-bottom:1px solid #CBD5E1;}
+#footer .ai-queries li{border:1px solid #CBD5E1;padding:12px 18px;border-radius:30px;margin:0 0 16px;}
+#footer .ai-queries li svg{margin:0 8px 0 0;}
+#footer .footer-btn .btn{width:47%;margin:0 1%;font-weight: 700;}
+#footer .footer-btn .icon-holder{width:20px;margin:0 8px 0 0;}
+#footer .footer-btn .btn:hover img{-o-filter: brightness(100);-ms-filter: brightness(100);-moz-filter: brightness(100);-webkit-filter: brightness(100);filter: brightness(100);}

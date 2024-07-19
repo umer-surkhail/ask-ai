@@ -1,0 +1,14 @@
+#header .header-top{padding:16px 0;}
+#header .icon-holder{font-size:24px;}
+#header .logo{width:38px;}
+#header .header-top .image-holder{width:40px;height:40px;border-radius:50%;}
+#header .header-top .image-holder img{width:100%;height:100%;object-fit: cover;}
+#header .header-middle{padding:16px 0;}
+#header .heading-search-row{margin:0 0 16px;}
+#header h1{font-size:24px;line-height:32px;font-weight:bold;color:#1E293B;font-weight:800;}
+#header .heading-search-row .search-icon{font-size:24px;}
+#header .search-text{padding:4px 0 0 21px;font-size:12px;line-height:14px;color:#64748B;}
+#header .continent-filter{font-size:14px;line-height:14px;color:#475569;}
+#header .continent-filter li{padding:10px;border:1px solid transparent;border-radius:19px;}
+#header .continent-filter li:hover,#header .continent-filter li.active{border-color:#4F46E5;color:#4F46E5;}
+#header .flag-holder{width:16px;margin:0 8px 0 0;}

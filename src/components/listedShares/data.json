@@ -1,0 +1,37 @@
+
+[
+	{
+		"name": "ASX",
+		"image":"/images/img-asx.png",
+		"amount": "$9,851,563",
+        "percentage":"-2.2%",
+        "pofitLoss":"loss",
+		"shares":
+			[
+				{ "subTitle":"(ASX: MRM)", "title": "MMA Offshore Ltd", "amount": "$416.087", "percentage":"-6.2%", "profitLoss":"loss" },
+				{ "subTitle":"(ASX: GQG)", "title": "GQG Partners Inc", "amount": "$2,711,407", "percentage":"-2.8%", "profitLoss":"loss" },
+				{ "subTitle":"(ASX: CCP)", "title": "Credit Corp Group Lim...", "amount": "$1,168,619", "percentage":"-3.4%", "profitLoss":"loss" },
+				{ "subTitle":"(ASX: WR1)", "title": "Winsome Resources Ltd", "amount": "$855,794", "percentage":"-2.9%", "profitLoss":"loss" },
+				{ "subTitle":"(ASX: AD8)", "title": "Audinate Group Ltd ", "amount": "$150,547", "percentage":"-2.3%", "profitLoss":"loss" },
+				{ "subTitle":"(ASX: PNV)", "title": "Polynovo Ltd", "amount": "$172,338", "percentage":"+7.9%", "profitLoss":"profit" },
+				{ "subTitle":"(ASX: DRO)", "title": "DroneShield Ltd", "amount": "$53,721", "percentage":"+1.2%", "profitLoss":"profit" },
+				{ "subTitle":"(ASX: BRN)", "title": "Brainchip Holdings Ltd", "amount": "$1,809,197", "percentage":"-0.8%", "profitLoss":"loss" },
+				{ "subTitle":"(ASX: LYC) ", "title": "Lynas Rare Earths Ltd", "amount": "$844,535", "percentage":"-1.7%", "profitLoss":"loss" },
+				{ "subTitle":"(ASX: PDN)", "title": "Paladin Energy Limited", "amount": "$1,353,174", "percentage":"-3.2%", "profitLoss":"loss" },
+				{ "subTitle":"(ASX: ARB)", "title": "ARB Corporation Limited", "amount": "$316,644", "percentage":"+5.3%", "profitLoss":"profit" }
+			]
+	},
+    {
+		"name": "NYSY",
+		"image":"/images/img-nysy.png",
+		"amount": "$4,115,942",
+        "percentage":"-2.5%",
+        "pofitLoss":"loss",
+		"shares":
+			[
+				{ "subTitle":"(NYSE: FN)", "title": "Fabrinet", "amount": "$1,214,594", "percentage":"+7.6%", "profitLoss":"profit" },
+				{ "subTitle":"(NYSE: IOT)", "title": "Samsara Inc.", "amount": "$22,385", "percentage":"+5.2%", "profitLoss":"profit" },
+				{ "subTitle":"(NYSE: ALK) ", "title": "Alaska Air Group, Inc.", "amount": "$2,878,963", "percentage":"-6.2%", "profitLoss":"loss" }
+			]
+	}
+]

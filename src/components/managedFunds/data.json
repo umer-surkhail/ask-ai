@@ -1,0 +1,47 @@
+
+[
+	{
+		"name": "Morgan Management",
+		"amount": "$6,753,635",
+		"percentage":"+32.1%",
+		"profitLoss":"profit",
+		"mfitems":
+			[
+				{ "title": "Regal Resources Long-Short Fund", "amount": "$1,999,110", "percentage":"+67.57%", "profitLoss":"profit" },
+				{ "title": "Regal Partners Private Fund", "amount": "$3,442,286", "percentage":"+23%", "profitLoss":"profit" },
+				{ "title": "Regal Resources High Conviction Fund", "amount": "$964,681", "percentage":"+11.2%", "profitLoss":"profit" },
+				{ "title": "Cash at Bank", "amount": "$54,099", "profitLoss":"profit" }
+			]
+	},
+	{
+		"name": "PM Capital",
+		"amount": "$3,349,366",
+		"percentage":"+2.2%",
+		"profitLoss":"profit",
+		"mfitems":
+			[
+				{ "title": "Australian Companies Fund", "amount": "$3,349,366", "percentage":"+67.57%", "profitLoss":"profit" }
+			]
+	},
+	{
+		"name": "Australian Eagle",
+		"amount": "$1,465,108",
+		"percentage":"+1.7%",
+		"profitLoss":"profit",
+		"mfitems":
+			[
+				{ "title": "Australian Eagle Trust", "amount": "$732,554", "percentage":"+1.2%", "profitLoss":"profit" },
+				{ "title": "Australian Eagle Equity Strategy", "amount": "$732,554", "percentage":"+2.2%", "profitLoss":"profit" }
+			]
+	},
+	{
+		"name": "Regal Management Fund",
+		"amount": "$859,155",
+		"percentage":"+12.2%",
+		"profitLoss":"profit",
+		"mfitems":
+			[
+				{ "title": "Regal Resources High Conviction Fund", "amount": "$859,155", "percentage":"+12.2%", "profitLoss":"profit" }
+			]
+	}
+]

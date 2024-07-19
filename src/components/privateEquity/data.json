@@ -1,0 +1,68 @@
+
+[
+	{
+		"name": "TPG Capital",
+		"amount": "$940,493",
+        "percentage":"+2.6%",
+        "pofitLoss":"profit",
+		"equities":
+			[
+				{ "title": "TPG Growth", "amount": "$123,694", "percentage":"+1.5%", "profitLoss":"profit" },
+				{ "title": "TPG Tech Adjacencies (TTAD)", "amount": "$816,799", "percentage":"+2.7%", "profitLoss":"profit" }
+			]
+	},
+    {
+		"name": "BainCapital",
+		"amount": "$350,940",
+        "percentage":"+2.5%",
+        "pofitLoss":"profit",
+		"equities":
+			[
+				{ "title": "Bain Capital Tech Opportunities", "amount": "$350,940", "percentage":"+2.5%", "profitLoss":"profit" }
+			]
+	},
+    {
+		"name": "KKR",
+		"amount": "$294,134",
+        "percentage":"+2.9%",
+        "pofitLoss":"profit",
+		"equities":
+			[
+				{ "title": "KKR Global Impact Fund", "amount": "$249,417", "percentage":"+3.3%", "profitLoss":"profit" },
+				{ "title": "KKR Next Generation Technology Growth F...", "amount": "$44,717", "percentage":"+0.7%", "profitLoss":"profit" }
+			]
+	},
+    {
+		"name": "Blackstone",
+		"amount": "$1,008,438",
+        "percentage":"+2.7%",
+        "pofitLoss":"profit",
+		"equities":
+			[
+				{ "title": "Blackstone Capital Partners", "amount": "$47,626", "percentage":"+3.4%", "profitLoss":"profit" },
+				{ "title": "Blackstone Growth (BXG)", "amount": "$960,812", "percentage":"+2.6%", "profitLoss":"profit" }
+			]
+	},
+    {
+		"name": "Riverside",
+		"amount": "$793,783",
+        "percentage":"+3.4%",
+        "pofitLoss":"profit",
+		"equities":
+			[
+				{ "title": "Riverside Micro-Cap Fund (RMCF)", "amount": "$543,050", "percentage":"+3.5%", "profitLoss":"profit" },
+				{ "title": "Riverside Europe Fund", "amount": "$250,733", "percentage":"+3.2%", "profitLoss":"profit" }
+			]
+	},
+    {
+		"name": "Global Ventures 2 Unit...",
+		"amount": "$2,433,511",
+        "percentage":"+21.7%",
+        "pofitLoss":"profit",
+		"equities":
+			[
+				{ "title": "CodeAI", "amount": "$1,474,171", "percentage":"+41%", "profitLoss":"profit" },
+				{ "title": "TravelPlan", "amount": "$929,340", "percentage":"+0%", "profitLoss":"profit" }
+			]
+	}
+]

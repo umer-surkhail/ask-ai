@@ -1,0 +1,27 @@
+.net-assets .group-by{color:#64748B;}
+.net-assets .group-by ul li{padding:8px 12px;border-radius:20px;}
+.net-assets .group-by ul li:hover,.net-assets .group-by ul li.active{background:#EEF2FF;color:#4F46E5;}
+.net-assets .assets-accordion .accordion-item{border-width:0;border-radius:0;}
+.net-assets .assets-accordion .accordion-item:last-child{border-width:0 0 1px;}
+.net-assets .assets-accordion .accordion-button{display:flex;justify-content: space-between; align-items: center;font-size:14px;line-height:14px;font-weight: 700;color:#fff;border-radius:30px !important;padding:6px 6px 6px 10px;margin:0 0 10px;}
+.net-assets .assets-accordion .accordion-button:focus{box-shadow: none;}
+.net-assets .assets-accordion .accordion-button .amount{padding:4px 8px;border-radius:15px;font-size:12px;line-height:12px;}
+.net-assets .assets-accordion .bg-blue .accordion-button{background:#06B6D4;}
+.net-assets .assets-accordion .bg-blue .amount{color:#06B6D4;}
+.net-assets .assets-accordion .bg-orange-dark .accordion-button{background:#F97316;}
+.net-assets .assets-accordion .bg-orange-dark .amount{color:#F97316;}
+.net-assets .assets-accordion .bg-yellow .accordion-button{background:#FCD34D;}
+.net-assets .assets-accordion .bg-yellow .amount{color:#F59E0B;}
+.net-assets .assets-accordion .bg-grey-dark .accordion-button{background:#64748B;}
+.net-assets .assets-accordion .bg-grey-dark .amount{color:#475569;}
+.net-assets .assets-accordion .bg-orange-light .accordion-button{background:#FDBA74;}
+.net-assets .assets-accordion .bg-orange-light .amount{color:#F97316;}
+.net-assets .assets-accordion .bg-grey-light .accordion-button{background:#94A3B8;}
+.net-assets .assets-accordion .bg-grey-light .amount{color:#475569;}
+.net-assets .assets-accordion .bg-green-light .accordion-button{background:#14B8A6;}
+.net-assets .assets-accordion .bg-green-light .amount{color:#0D9488;}
+.net-assets .assets-accordion .accordion-button:after{display: none;}
+.net-assets .assets-accordion .accordion-button .fa-plus,
+.net-assets .assets-accordion .accordion-button.collapsed .fa-minus{display:none}
+.net-assets .assets-accordion .accordion-button.collapsed .fa-plus{display:block}
+.net-assets .assets-accordion .accordion-body{padding:0;}

@@ -1,0 +1,60 @@
+
+[
+	{
+		"name": "T&E Morgan (Personal)",
+		"amount": "$14,195,397",
+        "percentage":"+4%",
+        "pofitLoss":"profit",
+		"incomes":
+			[
+				{ "title": "342 Cedar Ridge Drive, Beverly Hills, CA 90210", "amount": "$3,247,296", "percentage":"+4%", "profitLoss":"profit" },
+				{ "title": "BMW 5 Series (TM)", "amount": "$55,343", "percentage":"-4%", "profitLoss":"loss" },
+				{ "title": "Audi A6 (EM)", "amount": "$50,730", "percentage":"-4%", "profitLoss":"loss" },
+				{ "title": "Hyundai i30", "amount": "$17,706", "percentage":"-5.9%", "profitLoss":"loss" },
+				{ "title": "Cessna Citation CJ4", "amount": "$10,824,322", "percentage":"+4%", "profitLoss":"profit" }
+			]
+	},
+    {
+		"name": "Morgan Global Ventur...",
+		"amount": "$2,493,155",
+        "percentage":"+3.1%",
+        "pofitLoss":"profit",
+		"incomes":
+			[
+				{ "title": "185 Ocean View Blvd, Malibu, CA 90265", "amount": "$2,493,155", "percentage":"+3.1%", "profitLoss":"profit" }
+			]
+	},
+	{
+		"name": "T&E Morgan Pty Ltd...",
+		"amount": "$2,000,000",
+        "percentage":"0%",
+        "pofitLoss":"profit",
+		"incomes":
+			[
+				{ "title": "Majesty 100 - 25% share", "amount": "$2,000,000", "percentage":"0%", "profitLoss":"profit" }
+			]
+	},
+	{
+		"name": "J&W Morgan (Personal)",
+		"amount": "$2,382,075",
+        "percentage":"+0.04%",
+        "pofitLoss":"profit",
+		"incomes":
+			[
+				{ "title": "2501 Sea Cliff Avenue, San Francisco, CA 94121", "amount": "$2,204,637", "percentage":"+0.4%", "profitLoss":"profit" },
+				{ "title": "Porsche 911 (JM)", "amount": "$139,342", "percentage":"-4.8%", "profitLoss":"loss" },
+				{ "title": "Mercedes C250 (WM)", "amount": "$38,096", "percentage":"-3.2%", "profitLoss":"loss" }
+				
+			]
+	},
+	{
+		"name": "S&R Parker (Personal)",
+		"amount": "$2,660,649",
+        "percentage":"+3.3%",
+        "pofitLoss":"profit",
+		"incomes":
+			[
+				{ "title": "1601 Country Club Drive, Palo Alto, CA 94301", "amount": "$2,660,649", "percentage":"+3.3%", "profitLoss":"profit" }
+			]
+	}
+]

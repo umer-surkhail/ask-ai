@@ -1,0 +1,65 @@
+
+[
+	{
+		"name": "NAB",
+		"image":"/images/img-nab.png",
+		"amount": "$6,747,000",
+		"transactions":
+			[
+				{ "title": "Morgan Supperannuation Fund", "amount": "$1,128.000" },
+				{ "title": "Morgan Global Ventures Inc. ATF  Morgan Fam...", "amount": "$1,104,000" },
+				{ "title": "T&E Morgan Pty Ltd ATF  Morgan Family Trust...", "amount": "$1,100,000" },
+				{ "title": "Global Trading Pty Ltd", "amount": "$1,302,000" },
+				{ "title": "Global Investments Pty Ltd", "amount": "$1,392,000" },
+				{ "title": "T&E Morgan (Personal)", "amount": "$175,000" },
+				{ "title": "J&W Morgan (Personal)", "amount": "$360,000" },
+				{ "title": "Morgan Charitable Fund", "amount": "$186,000" }
+			]
+	},
+	{
+		"name": "ANZ",
+		"image":"/images/img-anz.png",
+		"amount": "$812,000",
+		"transactions":
+			[
+				{ "title": "Morgan Global Ventures Inc. ATF  Morgan Fam...", "amount": "$347,000" },
+				{ "title": "T&E Morgan (Personal)", "amount": "$482,000" }
+			]
+	},
+	{
+		"name": "Citibank",
+		"image":"/images/img-citi.png",
+		"amount": "$248,000",
+		"transactions":
+			[
+				{ "title": "J&W Morgan (Personal)", "amount": "$248,999" }
+			]
+	},
+	{
+		"name": "Bank of America",
+		"image":"/images/img-boa.png",
+		"amount": "$212,000",
+		"transactions":
+			[
+				{ "title": "J&W Morgan (Personal)", "amount": "$212,000" }
+			]
+	},
+	{
+		"name": "Bendigo",
+		"image":"/images/img-bendigo.png",
+		"amount": "$274,000",
+		"transactions":
+			[
+				{ "title": "J&W Morgan (Personal)", "amount": "$274,000" }
+			]
+	},
+	{
+		"name": "Crypto.com",
+		"image":"/images/img-crypto.png",
+		"amount": "$593,000",
+		"transactions":
+			[
+				{ "title": "T&E Morgan (Personal)", "amount": "$593,000" }
+			]
+	}
+]

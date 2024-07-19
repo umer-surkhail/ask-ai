@@ -1,0 +1,63 @@
+
+[
+	{
+		"name": "Schroders",
+		"amount": "$945,886",
+        "percentage":"+2.8%",
+        "pofitLoss":"profit",
+		"incomes":
+			[
+				{ "title": "Schroder Fixed Income Fund", "amount": "$945,886", "percentage":"+2.8%", "profitLoss":"profit" }
+			]
+	},
+    {
+		"name": "Metrics Credit Partners",
+		"amount": "$348,324",
+        "percentage":"+3%",
+        "pofitLoss":"profit",
+		"incomes":
+			[
+				{ "title": "Metrics Direct Income Fund", "amount": "$348,324", "percentage":"+3%", "profitLoss":"profit" }
+			]
+	},
+    {
+		"name": "First Sentier Investors",
+		"amount": "$1,339,759",
+        "percentage":"+2.3%",
+        "pofitLoss":"profit",
+		"incomes":
+			[
+				{ "title": "First Sentier Australian Fixed Income", "amount": "$1,339,759", "percentage":"+2.3%", "profitLoss":"profit" }
+			]
+	},
+    {
+		"name": "Vanguard",
+		"amount": "$3,768,273",
+        "percentage":"+2.2%",
+        "pofitLoss":"profit",
+		"incomes":
+			[
+				{ "title": "Vanguard Australian Fixed Interest ETF", "amount": "$3,768,273", "percentage":"+2.2%", "profitLoss":"profit" }
+			]
+	},
+    {
+		"name": "Boating Syndication Aust...",
+		"amount": "$62,152",
+        "percentage":"+1.2%",
+        "pofitLoss":"profit",
+		"incomes":
+			[
+				{ "title": "Boat (Units in Unit Trust)", "amount": "$62,152", "percentage":"+1.2%", "profitLoss":"profit" }
+			]
+	},
+    {
+		"name": "Challenger Investment",
+		"amount": "$2,062,609",
+        "percentage":"+1.9%",
+        "pofitLoss":"profit",
+		"incomes":
+			[
+				{ "title": "Challenger IM Credit Income Fund", "amount": "$2,062,609", "percentage":"+1.9%", "profitLoss":"profit" }
+			]
+	}
+]

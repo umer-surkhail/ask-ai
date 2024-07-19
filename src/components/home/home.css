@@ -1,0 +1,17 @@
+.home-page .asset-stats li{min-height:24px;background:#F8FAFC;padding:4px 8px;border-radius:15px;margin:0 8px 8px 0;}
+.home-page .asset-stats li.active{color:#22C55E;}
+.home-page .asset-stats li svg{margin:0 4px 0 0;}
+.home-page .add-btns-holder{padding:0 0 16px;margin:0 0 16px;}
+.home-page .add-btns-holder .btn{width:49%;font-size:14px;line-height:14px;}
+.home-page .add-btns-holder svg{width:20px;fill:#000;margin:0 8px 0 0;}
+.home-page .add-btns-holder svg path{fill: #475569;}
+.home-page .add-btns-holder .btn:hover svg path{fill: #ffff;}
+.home-page .perf-block h2{font-size:18px;line-height:24px;color:#475569;font-weight:700;}
+.home-page .perf-block .nav-tabs{border:none;}
+.home-page .perf-block .nav-link{padding:8px 12px;font-size:14px;line-height:14px;font-weight:600;color:#475569;border:none;border-radius:20px;}
+.home-page .perf-block .nav-link:hover,.home-page .perf-block .nav-link.active{background:#EEF2FF;color:#4F46E5;}
+.home-page .perf-block table td{color:#475569;font-weight:600;padding:24px 12px;}
+.home-page .perf-block table tr:last-child td{border:none;}
+.home-page .perf-block table .price{font-weight:700;margin:0 8px 0 0;}
+.home-page .perf-block table .price-change{background:#22C55E;color:#fff;font-size:12px;line-height:12px;padding:4px 8px;border-radius:10px;}
+.home-page .perf-block table .price-change svg{margin:0 4px 0 0;}

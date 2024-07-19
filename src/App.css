@@ -1,0 +1,79 @@
+@font-face {font-family: 'Plus Jakarta Sans';src: url('./assets/fonts/PlusJakartaSans-Regular.woff2') format('woff2'),url('./assets/fonts/PlusJakartaSans-Regular.woff') format('woff');font-weight: normal;font-style: normal;font-display: swap;}
+@font-face {font-family: 'Plus Jakarta Sans';src: url('./assets/fonts/PlusJakartaSans-Medium.woff2') format('woff2'),url('./assets/fonts/PlusJakartaSans-Medium.woff') format('woff');font-weight: 500;font-style: normal;font-display: swap;}
+@font-face {font-family: 'Plus Jakarta Sans';src: url('./assets/fonts/PlusJakartaSans-SemiBold.woff2') format('woff2'),url('./assets/fonts/PlusJakartaSans-SemiBold.woff') format('woff');font-weight: 600;font-style: normal;font-display: swap;}
+@font-face {font-family: 'Plus Jakarta Sans';src: url('./assets/fonts/PlusJakartaSans-Bold.woff2') format('woff2'),url('./assets/fonts/PlusJakartaSans-Bold.woff') format('woff');font-weight: bold;font-style: normal;font-display: swap;}
+@font-face {font-family: 'Plus Jakarta Sans';src: url('./assets/fonts/PlusJakartaSans-ExtraBold.woff2') format('woff2'),url('./assets/fonts/PlusJakartaSans-ExtraBold.woff') format('woff');font-weight: 800;font-style: normal;font-display: swap;}
+body{font-family: 'Plus Jakarta Sans';font-size:14px;line-height:17px;color:#475569;}
+.ask-ai-app{max-width:360px;margin: 0 auto;box-shadow: 0 0 10px rgba(0,0,0,0.3);}
+.cursor-pointer{cursor:pointer;}
+a{text-decoration: none;}
+a,.transition,.btn,.home-page .add-btns-holder svg path,.home-page .perf-block .nav-link{transition: all ease-in-out 0.3s;}
+.bg-success-light{background:#DCFCE7;}
+.bg-danger-light{background:#FFE4E6;}
+.bg-success-dark{background:#22C55E;}
+.text-orange{color:#FDA4AF;}
+.text-success{color:#16A34A;}
+.text-success-bg-success{color:#22C55E}
+.text-danger{color:#E11D48;}
+.text-danger-bg-danger{color:#F43F5E;}
+.text-success-dark{color:#15803D}
+.text-purple{color:#6366F1;}
+.btn{height:48px;border:1px solid;border-radius:24px;}
+.btn-black,.btn-black:focus{border-color:#1E293B;color:#fff;background:#1E293B;}
+.btn-black:hover{border-color:#1E293B;background:#fff;color:#1E293B;}
+.btn-oiutline,.btn-outline:focus{color:#475569;border-color:#CBD5E1}
+.btn-outline:hover{color:#fff;border-color:#4F46E5;background:#4F46E5;color:#fff;}
+.net-assets-block,
+.gross-income-block,
+.net-asset-block{background:#7E22CE;border-radius:24px;padding:16px;color:#fff;margin:0 0 16px;}
+.gross-income-block,
+.net-asset-block{background:transparent;border:1px solid #E2E8F0;color:#475569;}
+.net-assets-block h2,
+.gross-income-block h2,
+.net-asset-block h2{font-size:16px;line-height:24px;font-weight: 500;margin:0;}
+.net-assets-block .icon-holder{color:#fff}
+.net-assets-block:hover .icon-holder,
+.gross-income-block:hover .icon-holder,
+.net-asset-block:hover .icon-holder{-o-transform: translateX(7px);-ms-transform: translateX(7px);-moz-transform: translateX(7px);-webkit-transform: translateX(7px);transform: translateX(7px);}
+.net-assets-block .price-block .price,
+.gross-income-block .price-block .price,
+.net-asset-block .price-block .price{font-size:30px;line-height:34px;font-weight:700;margin:0 0 8px;color:#fff;}
+.gross-income-block .price-block .price,
+.net-asset-block .price-block .price{color:#1E293B;}
+.net-assets-block .price-block{font-size:12px;line-height:12px;color:#475569;}
+.net-assets-block .price-holder .icon-holder,
+.gross-income-block .price-holder .icon-holder{font-size:24px;}
+.gross-income-block .price-holder .icon-holder{display:flex;width:48px;height:48px;background:#EEF2FF;border-radius:50%;color:#475569;}
+.net-asset-block .price-holder .icon-holder{display: none;}
+.net-assets-block .calculate-asset-stats,
+.gross-income-block .calculate-asset-stats,
+.net-asset-block .calculate-asset-stats{font-size:16px;line-height:32px;color:#fff;}
+.gross-income-block .calculate-asset-stats,
+.net-asset-block .calculate-asset-stats{color:#000;}
+.net-assets-block .calculate-asset-stats span,
+.gross-income-block .calculate-asset-stats span,
+.net-asset-block .calculate-asset-stats span{margin:0 4px 0 0;}
+.gross-income-block .asset-stats li{background:transparent;padding:0;min-height: auto;}
+.gross-income-block .stat-spans,
+.net-asset-block .stat-spans{background:#F1F5F9;padding:4px;border-radius:30px;font-weight:700;}
+.gross-income-block .stat-spans li,
+.net-asset-block .stat-spans li{padding:8px 10px;border-radius:22px;}
+.gross-income-block .stat-spans li:hover,
+.gross-income-block .stat-spans li.active,
+.net-asset-block .stat-spans li:hover,
+.net-asset-block .stat-spans li.active{background:#fff;color:#4F46E5;}
+.net-asset-block .returns-block{font-size:16px;line-height:20px;}
+.net-asset-block .returns-block .badge{padding:5px 8px;border-radius: 15px;font-size:12px;}
+.inai-header{background:#F8FAFC;padding:14px 8px;font-weight:800;border-bottom:1px solid #CBD5E1;}
+.inai-header .image-holder{width:20px;}
+.inai-header .badge{padding:4px 8px;border-radius:20px;}
+.inai-header .badge.profit{background:#DCFCE7;color:#22C55E;}
+.inai-header .badge.loss{background:#FFE4E6;color:#F43F5E;}
+.inai-header .image-holder{width:20px;}
+.inai-list li{padding:16px 8px;border-bottom:1px solid #E2E8F0;font-weight:600;}
+.inai-list .amount{font-weight:700;}
+.inai-list .mf-name{padding:0 10px 0 0;}
+.inai-list .percentage{font-size:12px;line-height:12px;}
+.inai-list svg{color:#4F46E5;}
+.inai-list li .profit{color:#16A34A;}
+.inai-list li .loss{color:#E11D48;}
